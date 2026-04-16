@@ -1,0 +1,62 @@
+; dataxcodes - Material DB
+Materials {
+    MoS2 {
+        label = "MoS2"
+        group = Semiconductor
+        color = #87CEEB
+    }
+
+    MoSe2 {
+        label = "MoSe2"
+        group = Semiconductor
+        color = #87CEEB
+    }
+
+    MoTe2 {
+        label = "MoTe2"
+        group = Semiconductor
+        color = #87CEEB
+    }
+
+    WS2 {
+        label = "WS2"
+        group = Semiconductor
+        color = #87CEEB
+    }
+
+    WSe2 {
+        label = "WSe2"
+        group = Semiconductor
+        color = #87CEEB
+    }
+
+    ReS2 {
+        label = "ReS2"
+        group = Semiconductor
+        color = #87CEEB
+    }
+
+    ReSe2 {
+        label = "ReSe2"
+        group = Semiconductor
+        color = #87CEEB
+    }
+
+    ZrS2 {
+        label = "ZrS2"
+        group = Semiconductor
+        color = #87CEEB
+    }
+
+    ZrSe2 {
+        label = "ZrSe2"
+        group = Semiconductor
+        color = #87CEEB
+    }
+
+    2H-a-In2Se3 {
+        label = "2H-a-In2Se3"
+        group = Semiconductor
+        color = #87CEEB
+    }
+}
